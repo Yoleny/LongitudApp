@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongitudApp", "LongitudApp\LongitudApp.csproj", "{38C799A6-343B-405A-B552-4909B37868DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C799A6-343B-405A-B552-4909B37868DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C799A6-343B-405A-B552-4909B37868DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C799A6-343B-405A-B552-4909B37868DD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{38C799A6-343B-405A-B552-4909B37868DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C799A6-343B-405A-B552-4909B37868DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C799A6-343B-405A-B552-4909B37868DD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DCC704-E197-4641-9F88-D20F1E42EA99}
+	EndGlobalSection
+EndGlobal

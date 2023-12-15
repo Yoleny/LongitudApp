@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LongitudApp"
+             x:Class="LongitudApp.MToCmPage">
+    <StackLayout>
+        <Entry x:Name="mEntry" Placeholder="Valor en metros" />
+        <Button Text="Convertir" Clicked="ConvertButton_Clicked" />
+        <Button Text="Limpiar" Clicked="ClearButton_Clicked" />
+        <Label x:Name="resultLabel" />
+    </StackLayout>
+</ContentPage>
